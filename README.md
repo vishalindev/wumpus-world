@@ -28,7 +28,7 @@ The following figures will be used to explain the agent’s ability to gather kn
 
 #### Figure 1
 The agent, represented by ‘A’, enters the cave from the bottom left [3, 0]. Upon entering the cave, the agent does not perceive any threat indicators.<br>
-![Figure 1](hhttps://github.com/vishalindev/wumpus-world/blob/main/README_images/figure_1.png?raw=true)
+![Figure 1](hhttps://github.com/vishalindev/wumpus-world/blob/main/README_images/figure_1.png)
 
 
 
