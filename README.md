@@ -1,4 +1,4 @@
-# Wumpus World Simulation
+# Wumpus World Simulation By Vishal Kumar
 
 ## About:
 
